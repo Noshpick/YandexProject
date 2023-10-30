@@ -323,3 +323,9 @@ img.service {
         font-size: 25px;
     }
 }
+
+@media screen and (max-width:360px) {    /* Адаптация текста над обовью */
+    .main_text{
+        font-size: 20px;
+    }
+}
